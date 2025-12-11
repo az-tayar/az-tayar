@@ -17,6 +17,6 @@ Feel free to explore my projects and reach out if you'd like to connect!
 
 ## View My CV
 
-For more details on my qualifications and experience, please check out my **Resume** in the same repo:
+For more details on my qualifications and experience, please check out my **Resume** in the below link:
 
 [View My CV](./Resume_Abdulaziz.pdf)
